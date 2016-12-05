@@ -1,0 +1,7 @@
+[package]
+name = "yifan"
+version = "0.1.0"
+authors = ["Chen Gang <chengang@cpan.org>"]
+
+[dependencies]
+rocky = "*"
